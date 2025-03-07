@@ -1,4 +1,4 @@
-# YOUR NAME
+# Jay Marc Custodio 
 # ITELEC2
 # Problem Set 01 - Problem 01
 # Simple Calculator Program
